@@ -12,4 +12,5 @@ int main(){
   cin>>base>>exponent;
   int result = power(base,exponent);
   cout<<result;
+
 }
